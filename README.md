@@ -1,6 +1,6 @@
 # NetringJS
 
-!(https://github.com/ozdoyevg/netring-js/blob/master/img/basic.png)
+![Screenshot](https://github.com/ozdoyevg/netring-js/blob/master/img/basic.png)
 
 ```
 import Netring from "../src/netring.js"
